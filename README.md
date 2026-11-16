@@ -19,6 +19,7 @@ An autonomous AI agent trading in a live multi-agent market: the model proposes,
 Automated bank reconciliation for a synthetic multinational group: final team score 95.9/100 on a 220K-transaction test set (13 banks, 12 currencies).
 
 *My role* (starting with no coding experience, directing Claude Code):
+
 - took my prototype from the organisers' 11/100 baseline to 54/100 on the development sample
 - built a leak-free validation set used to benchmark the team's solutions
 - wrote tests that caught an edge-case bug fixed before the final build
