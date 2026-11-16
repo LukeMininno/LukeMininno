@@ -6,7 +6,7 @@ I work at the intersection of strategy, product and AI. Previously at Bain & Com
 
 ## Hackathons
 
-**Cerebro** - 🏆 Winner among 18 teams, Causa Prima × Claude Hackathon (Madrid, Oct 2026)
+***Cerebro*** - 🏆 Winner among 18 teams, Causa Prima × Claude Hackathon (Madrid, Oct 2026)
 
 An autonomous AI agent trading in a live multi-agent market: the model proposes, code-based guardrails decide.
 
@@ -14,7 +14,7 @@ An autonomous AI agent trading in a live multi-agent market: the model proposes,
 
 → [Team repo](https://github.com/aaangelmartin/Cerebro)
 
-**Close the Books** - 🥉 3rd of 20 teams, Talky × Anthropic Hackathon (Madrid, Nov 2026)
+***Close the Books*** - 🥉 3rd of 20 teams, Talky × Anthropic Hackathon (Madrid, Nov 2026)
 
 Automated bank reconciliation for a synthetic multinational group: final team score 95.9/100 on a 220K-transaction test set (13 banks, 12 currencies).
 
