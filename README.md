@@ -25,7 +25,7 @@ Automated bank reconciliation for a synthetic multinational group: final team sc
 - wrote tests that caught an edge-case bug fixed before the final build
 - owned the project write-up and video
 
-→ [My work](https://github.com/LukeMininno/close-the-books-reconciliation) · [Team repo](https://github.com/vitalio-sh/CLOSE-THE-BOOK)
+→ [My work](https://github.com/LukeMininno/close-the-books-reconciliation) , [Team repo](https://github.com/vitalio-sh/CLOSE-THE-BOOK)
 
 ## Get in touch
 
